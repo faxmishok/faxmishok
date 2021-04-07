@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/faxmishok/faxmishok/main/example-1.png">](https://www.fahminguliyev.live/) 
+[<img src="https://raw.githubusercontent.com/faxmishok/faxmishok/main/example-3.svg">](https://www.fahminguliyev.live/) 
 
 [![Website](https://img.shields.io/website?label=fahminguliyev.live&style=for-the-badge&url=https%3A%2F%2Ffahminguliyev.live)](https://fahminguliyev.live)
 
