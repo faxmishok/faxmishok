@@ -1,8 +1,8 @@
 ### Welcome to my Github page!
-[<img src="https://raw.githubusercontent.com/faxmishok/faxmishok/main/example.svg">](https://www.fahminguliyev.live/) 
+[<img src="https://raw.githubusercontent.com/faxmishok/faxmishok/main/example.svg">](https://www.fahminguliyev.com/) 
 
 ### Check out my portfolio website live! <br />
-[![Website](https://img.shields.io/website?label=fahminguliyev.live&style=for-the-badge&url=https%3A%2F%2Ffahminguliyev.live)](https://fahminguliyev.live)
+[![Website](https://img.shields.io/website?label=fahminguliyev.com&style=for-the-badge&url=https%3A%2F%2Ffahminguliyev.com)](https://fahminguliyev.com)
 ---
 ### Languages and Tools:
 
@@ -31,7 +31,7 @@
 <img width="428px" height="195px" src="https://github-readme-stats-faxmishok.vercel.app/api?username=faxmishok&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /><img width="361px" height="195px" src="https://github-readme-stats-faxmishok.vercel.app/api/top-langs/?username=faxmishok&hide=tsql&langs_count=6&theme=radical&layout=compact" />
 
 
-[website]: https://fahminguliyev.live
+[website]: https://fahminguliyev.com
 [twitter]: https://twitter.com/faxmishok
 [instagram]: https://instagram.com/faxmishok
 [linkedin]: https://linkedin.com/in/fahmin
