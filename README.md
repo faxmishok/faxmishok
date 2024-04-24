@@ -1,4 +1,4 @@
-### Welcome to my Github page!
+# Welcome to my Github page!
 
 ### Check out my portfolio website live! <br />
 [![Website](https://img.shields.io/website?label=fahminguliyev.com&style=for-the-badge&url=https%3A%2F%2Ffahminguliyev.com)](https://fahminguliyev.com)
