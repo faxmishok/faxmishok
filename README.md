@@ -1,5 +1,4 @@
 ### Welcome to my Github page!
-[<img src="https://raw.githubusercontent.com/faxmishok/faxmishok/main/example.svg">](https://www.fahminguliyev.com/) 
 
 ### Check out my portfolio website live! <br />
 [![Website](https://img.shields.io/website?label=fahminguliyev.com&style=for-the-badge&url=https%3A%2F%2Ffahminguliyev.com)](https://fahminguliyev.com)
