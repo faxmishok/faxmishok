@@ -32,6 +32,6 @@
 
 [website]: https://fahminguliyev.com
 [twitter]: https://twitter.com/faxmishok
-[instagram]: https://instagram.com/faxmishok
+[instagram]: https://instagram.com/notchstrident
 [linkedin]: https://linkedin.com/in/fahmin
 [codepen]: https://codepen.io/faxmishok
