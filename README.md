@@ -27,8 +27,7 @@
 
 ---
 
-<img width="428px" height="195px" src="https://github-readme-stats-faxmishok.vercel.app/api?username=faxmishok&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /><img width="361px" height="195px" src="https://github-readme-stats-faxmishok.vercel.app/api/top-langs/?username=faxmishok&hide=tsql&langs_count=6&theme=radical&layout=compact" />
-
+<img width="500" height="200" src="https://faxmishok-readme-stats.vercel.app/api?username=faxmishok&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /><img width="350" height="205px" src="https://faxmishok-readme-stats.vercel.app/api/top-langs/?username=faxmishok&hide=tsql&langs_count=6&theme=tokyonight&layout=compact" />
 
 [website]: https://fahminguliyev.com
 [twitter]: https://twitter.com/faxmishok
